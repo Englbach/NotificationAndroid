@@ -1,0 +1,4 @@
+NotificationAndroid.MainActivity, NotificationAndroid;md5e54f5f1142e58281c48209c4f63d83c6.MainActivity
+NotificationAndroid.MainActivity, NotificationAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e54f5f1142e58281c48209c4f63d83c6.MainActivity
+NotificationAndroid.MainActivity;md5e54f5f1142e58281c48209c4f63d83c6.MainActivity
+notificationandroid.MainActivity;md5e54f5f1142e58281c48209c4f63d83c6.MainActivity
